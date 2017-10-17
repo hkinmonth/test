@@ -5,7 +5,9 @@
 Through this repository we're seeking your help to grow a great volunteer-based non-profit organization.
 
 **WHO WE ARE**   
-[CTSD](https://www.campthunderbirdsd.org/)
+[CTSD](https://campthunderbirdsd.org/)
+
+
 
 
 **WHAT WE DO**
